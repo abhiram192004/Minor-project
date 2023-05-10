@@ -1,0 +1,27 @@
+body{
+    padding-top: 78px;
+}
+#img1{
+    width: 300px;
+    height: 300px;
+}
+.card{
+  height: 100%;
+}
+.card:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+.btn:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+}
+
+
+
+     
+     @import url('https://fonts.googleapis.com/css?family=Chilanka');
+
+    .navbar-brand {
+      font-family: 'Chilanka', cursive;
+    }
